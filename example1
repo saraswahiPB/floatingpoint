@@ -1,0 +1,10 @@
+package com.gqt.saraswathi;
+
+public class Launch
+{
+  public static void main(String[] args)
+  {
+	  float a=45.123456789678972395421687f;
+	  System.out.println(a);
+  }
+}
